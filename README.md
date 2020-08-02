@@ -1,3 +1,5 @@
+# NOTE: We wrote most of the code in multiagents.py and pacman.py
+
 NOTE - (Use python2 or python whichever runs python 2 for your environment)
 The setup is very similar to Project 2 ... Only additional thing is we have used matplotlib
 
